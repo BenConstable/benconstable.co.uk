@@ -1,0 +1,18 @@
+{
+  "name": "benconstable.co.uk",
+  "version": "0.0.1",
+  "description": "Personal website.",
+  "dependencies": {},
+  "devDependencies": {
+    "parcel-bundler": "^1.10.3",
+    "sass": "^1.14.3"
+  },
+  "scripts": {
+    "dev": "parcel index.html --out-dir docs/",
+    "build": "parcel build index.html --out-dir docs/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenConstable/benconstable.co.uk.git"
+  }
+}
