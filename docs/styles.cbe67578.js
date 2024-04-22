@@ -189,7 +189,7 @@ var reloadCSS = require('_css_loader');
 
 module.hot.dispose(reloadCSS);
 module.hot.accept(reloadCSS);
-},{"C:\\code\\personal\\benconstable.co.uk\\assets\\fonts\\BebasNeue-webfont.eot":[["BebasNeue-webfont.b0b94548.eot","assets/fonts/BebasNeue-webfont.eot"],"assets/fonts/BebasNeue-webfont.eot"],"C:\\code\\personal\\benconstable.co.uk\\assets\\fonts\\BebasNeue-webfont.woff":[["BebasNeue-webfont.04b87c34.woff","assets/fonts/BebasNeue-webfont.woff"],"assets/fonts/BebasNeue-webfont.woff"],"C:\\code\\personal\\benconstable.co.uk\\assets\\fonts\\BebasNeue-webfont.ttf":[["BebasNeue-webfont.b40f8b7c.ttf","assets/fonts/BebasNeue-webfont.ttf"],"assets/fonts/BebasNeue-webfont.ttf"],"C:\\code\\personal\\benconstable.co.uk\\assets\\fonts\\BebasNeue-webfont.svg":[["BebasNeue-webfont.0dd8a5e6.svg","assets/fonts/BebasNeue-webfont.svg"],"assets/fonts/BebasNeue-webfont.svg"],"C:\\code\\personal\\benconstable.co.uk\\assets\\img\\bg.png":[["bg.35087fa5.png","assets/img/bg.png"],"assets/img/bg.png"],"_css_loader":"node_modules/parcel-bundler/src/builtins/css-loader.js"}],"node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
+},{"/Users/ben.constable/code/personal/benconstable.co.uk/assets/fonts/BebasNeue-webfont.eot":[["BebasNeue-webfont.b0b94548.eot","assets/fonts/BebasNeue-webfont.eot"],"assets/fonts/BebasNeue-webfont.eot"],"/Users/ben.constable/code/personal/benconstable.co.uk/assets/fonts/BebasNeue-webfont.woff":[["BebasNeue-webfont.04b87c34.woff","assets/fonts/BebasNeue-webfont.woff"],"assets/fonts/BebasNeue-webfont.woff"],"/Users/ben.constable/code/personal/benconstable.co.uk/assets/fonts/BebasNeue-webfont.ttf":[["BebasNeue-webfont.b40f8b7c.ttf","assets/fonts/BebasNeue-webfont.ttf"],"assets/fonts/BebasNeue-webfont.ttf"],"/Users/ben.constable/code/personal/benconstable.co.uk/assets/fonts/BebasNeue-webfont.svg":[["BebasNeue-webfont.0dd8a5e6.svg","assets/fonts/BebasNeue-webfont.svg"],"assets/fonts/BebasNeue-webfont.svg"],"/Users/ben.constable/code/personal/benconstable.co.uk/assets/img/bg.png":[["bg.35087fa5.png","assets/img/bg.png"],"assets/img/bg.png"],"_css_loader":"node_modules/parcel-bundler/src/builtins/css-loader.js"}],"node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
 var OldModule = module.bundle.Module;
@@ -217,7 +217,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "52683" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "56806" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
